@@ -6,7 +6,7 @@
 ### Nossas atividades
 
 <div align="center" >
-  <a href="https://github.com/mauriciorocha1968">
+  <a href="https://github.com/evolutiongrupo2022">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evolutiongrupo2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evolutiongrupo2022&layout=compact&langs_count=7&theme=dark"/>
 </div>
